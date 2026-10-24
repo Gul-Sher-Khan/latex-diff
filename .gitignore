@@ -1,0 +1,3 @@
+.latexdiff-work/
+*.pdf
+__pycache__/
